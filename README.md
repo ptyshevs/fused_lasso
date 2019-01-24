@@ -12,7 +12,7 @@ Gaussian noise N(0, 20) is added to each of the examples, then model is trained 
 ![example1](files/example1.png)
 R^2 = 0.89
 
-![example2](files.example2.png)
+![example2](files/example2.png)
 
 ### Interface
 
