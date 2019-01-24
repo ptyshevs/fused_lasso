@@ -10,7 +10,6 @@ Fused LASSO is a variation of MSE + L1 regularization. We penalize weight (which
 
 Gaussian noise N(0, 20) is added to each of the examples, then model is trained and result is compared with both the original and noisy image. Metric used for evaluation is a modification R^2 coefficient, where Variance is replaced with estimation of Gaussian noise standard deviation. This can be interpreted as amount of variation of the original image "preserved" in denoised version.
 ![example1](files/example1.png)
-R^2 = 0.89
 
 ![example2](files/example2.png)
 
