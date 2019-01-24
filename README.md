@@ -16,7 +16,7 @@ R^2 = 0.89
 
 ### Interface
 
-Along with a research notebook, `fused_lasso.py` file contains model object with sklearn-like interface.
+Along with a research notebook, `fused_lasso.py` file is provided, containing model class with sklearn-like API.
 
 ## Acknowledgements
 
